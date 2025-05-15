@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+.vscode/
+.DS_Store
+build/
+dist/
+thoughtful_sorter/__pycache__/
+thoughtful_sorter/tests/__pycache__/
